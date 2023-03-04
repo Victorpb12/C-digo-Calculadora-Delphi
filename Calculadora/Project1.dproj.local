@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/01 10:57:14.000.146,=C:\Users\victo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/03/01 10:57:41.000.961,C:\Users\victo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos-Delphi\Calculadora\Calculadora.pas</Transaction>
+    <Transaction>2023/03/01 10:57:41.000.961,C:\Users\victo\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Projetos-Delphi\Calculadora\Calculadora.dfm</Transaction>
+    <Transaction>2023/03/01 15:44:54.000.871,C:\Users\victo\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos-Delphi\Calculadora\Project1.dproj</Transaction>
+    <Transaction>2023/03/04 10:34:12.305,=C:\Projetos-Delphi\Calculadora\Unit2.pas</Transaction>
+    <Transaction>2023/03/04 10:35:24.556,C:\Projetos-Delphi\Calculadora\tela2.pas=C:\Projetos-Delphi\Calculadora\Unit2.pas</Transaction>
+    <Transaction>2023/03/04 10:35:24.556,C:\Projetos-Delphi\Calculadora\tela2.dfm=C:\Projetos-Delphi\Calculadora\Unit2.dfm</Transaction>
+    <Transaction>2023/03/04 11:02:37.592,C:\Projetos-Delphi\Calculadora\tela2.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
